@@ -11,6 +11,9 @@ target/
 *.iws
 *.iml
 *.ipr
+mvnw.cmd
+mvnw
+/.mvn/wrapper
 
 ### Eclipse ###
 .apt_generated
